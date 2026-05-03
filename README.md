@@ -100,13 +100,12 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishk008&show_icons=true&locale=en" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanishk008&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishk008" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishk008&theme=tokyonight" />
 </p>
-
 ---
 
 ### ⚡ Fun Fact:
