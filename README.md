@@ -20,33 +20,33 @@
 
 ---
 
-### 👨‍💻 About Me:
+###  About Me:
 
-- 🎓 B.Tech CSE (AI) student at KIET, Ghaziabad  
-- 💡 Building AI-powered systems & Web3 applications  
-- 🚀 Currently working on LLM-based document intelligence systems  
-- ⚡ Exploring system design, scalable architectures & real-world problem solving  
-- 🎯 Goal: To build impactful products that solve real-world problems  
-
----
-
-### 🚀 Currently Working On:
-
-- 🧠 AI-powered Patient Queue & Triage System  
-- 🤖 LLM-based Document Query System (DocuMind AI)  
-- 🔗 Web3 + AI integrations  
+-  B.Tech CSE (AI) student at KIET, Ghaziabad  
+-  Building AI-powered systems & Web3 applications  
+-  Currently working on LLM-based document intelligence systems  
+-  Exploring system design, scalable architectures & real-world problem solving  
+-  Goal: To build impactful products that solve real-world problems  
 
 ---
 
-### 🔥 Featured Projects:
+###  Currently Working On:
 
-- 🚀 **DocuMind AI** – AI system to query large unstructured documents using LLMs  
-- 🏥 **AI Patient Queue System** – Reducing hospital waiting time using AI triage  
-- 🎮 **On-chain AI Quest Game** – Web3-based interactive puzzle system  
+-  AI-powered Patient Queue & Triage System  
+-  LLM-based Document Query System (DocuMind AI)  
+-  Web3 + AI integrations  
 
 ---
 
-### 🌐 Connect with me:
+###  Featured Projects:
+
+-  **DocuMind AI** – AI system to query large unstructured documents using LLMs  
+-  **AI Patient Queue System** – Reducing hospital waiting time using AI triage  
+-  **On-chain AI Quest Game** – Web3-based interactive puzzle system  
+
+---
+
+###  Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/tanishk-gupta-5b7536287"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
@@ -96,7 +96,7 @@
 
 
 
-### 📊 GitHub Stats:
+###  GitHub Stats:
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Tanishk008&show_icons=true&theme=tokyonight" /> -->
@@ -109,5 +109,5 @@
 
 ### ⚡ Fun Fact:
 
-- 🧠 I love building at the intersection of AI + Web3  
-- 🚀 Always exploring new tech and solving real-world problems  
+-  I love building at the intersection of AI + Web3  
+-  Always exploring new tech and solving real-world problems  
