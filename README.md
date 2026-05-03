@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanishk Gupta</h1>
+<h1 align="center">Hi , I'm Tanishk Gupta</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=SDE+%7C+Web+Developer;AI+%7C+Web3+Builder;Problem+Solver+%7C+Innovator&center=true&width=500&height=50">
@@ -107,7 +107,7 @@
 </p>
 
 
-### ⚡ Fun Fact:
+###  Fun Fact:
 
 -  I love building at the intersection of AI + Web3  
 -  Always exploring new tech and solving real-world problems  
