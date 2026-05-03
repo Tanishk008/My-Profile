@@ -56,7 +56,7 @@
 <a href="https://www.leetcode.com/tanishk_08"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
 </p>
 
-### 🛠️ Languages and Tools:
+###  Languages and Tools:
 
 <table>
 <tr>
