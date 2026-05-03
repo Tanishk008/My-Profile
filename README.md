@@ -84,7 +84,7 @@
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/></td>
 <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="45"/></td>
+<!-- <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="45"/></td> -->
 </tr>
 
 <tr>
@@ -100,7 +100,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishk008&show_icons=true&theme=tokyonight" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Tanishk008&show_icons=true&theme=tokyonight" /> -->
 </p>
 
 <p align="center">
