@@ -55,7 +55,6 @@
 <a href="https://codeforces.com/profile/tanishk008"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40"/></a>
 <a href="https://www.leetcode.com/tanishk_08"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
 </p>
----
 
 ### 🛠️ Languages and Tools:
 
@@ -95,7 +94,7 @@
 </tr>
 </table>
 
----
+
 
 ### 📊 GitHub Stats:
 
@@ -106,7 +105,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishk008&theme=tokyonight" />
 </p>
----
+
 
 ### ⚡ Fun Fact:
 
