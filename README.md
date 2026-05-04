@@ -48,31 +48,27 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/tanishk-gupta-5b7536287">
+
+<a href="https://linkedin.com/in/tanishk-gupta-5b7536287" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<a href="https://instagram.com/tanishkgupta_008">
+<a href="https://instagram.com/tanishkgupta_008" title="Instagram">
   <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.codechef.com/users/tanishk008">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="40"/>
+<a href="https://www.codechef.com/users/tanishk008" title="CodeChef">
+  <img src="https://raw.githubusercontent.com/Tanishk008/Tanishk008/main/assets/cd.webp" width="40"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<!-- CLEAN CODEFORCES ICON (the colored bars one) -->
-<a href="https://codeforces.com/profile/tanishk008">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="40"/>
+<a href="https://codeforces.com/profile/tanishk008" title="Codeforces">
+  <img src="https://raw.githubusercontent.com/Tanishk008/Tanishk008/main/assets/cf.webp" width="40"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<!-- CLEAN LEETCODE ICON -->
-<a href="https://leetcode.com/u/Tanishk_008/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40"/>
+<a href="https://leetcode.com/u/Tanishk_008/" title="LeetCode">
+  <img src="https://raw.githubusercontent.com/Tanishk008/Tanishk008/main/assets/lc.webp" width="40"/>
 </a>
+
 </p>
 ###  Tech Stack:
 
