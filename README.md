@@ -114,7 +114,7 @@
 </table>
 
 
-###  GitHub Stats:
+GitHub Stats:
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Tanishk008&show_icons=true&theme=tokyonight" /> -->
@@ -125,7 +125,7 @@
 </p>
 
 
-###  Fun Fact:
+Fun Fact:
 
 -  I love building at the intersection of AI + Web3  
 -  Always exploring new tech and solving real-world problems  
