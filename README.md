@@ -45,9 +45,13 @@
 -  **On-chain AI Quest Game** – Web3-based interactive puzzle system  
 
 ---
-### Connect with me:
+###  Connect with me:
 
 <p align="left">
+
+<a href="mailto:tanishkgupta8000@gmail.com" title="Email">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" style="margin-right:12px"/>
+</a>
 
 <a href="https://linkedin.com/in/tanishk-gupta-5b7536287" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin-right:12px"/>
