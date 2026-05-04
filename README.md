@@ -45,36 +45,35 @@
 -  **On-chain AI Quest Game** – Web3-based interactive puzzle system  
 
 ---
-
-###  Connect with me:
+### Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/tanishk-gupta-5b7536287">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://instagram.com/tanishkgupta_008">
   <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://www.codechef.com/users/tanishk008">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<!-- FIXED CODEFORCES -->
+<!-- CLEAN CODEFORCES ICON (the colored bars one) -->
 <a href="https://codeforces.com/profile/tanishk008">
-  <img src="https://sta.codeforces.com/s/91937/images/codeforces-logo-with-telegram.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="40"/>
 </a>
-
 &nbsp;&nbsp;&nbsp;
 
-<!-- FIXED LEETCODE -->
+<!-- CLEAN LEETCODE ICON -->
 <a href="https://leetcode.com/u/Tanishk_008/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40"/>
 </a>
 </p>
-
 ###  Tech Stack:
 
 <table>
