@@ -49,14 +49,33 @@
 ###  Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/tanishk-gupta-5b7536287"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
-<a href="https://instagram.com/tanishkgupta_008"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
-<a href="https://www.codechef.com/users/tanishk008"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40"/></a>
-<a href="https://codeforces.com/profile/tanishk008"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40"/></a>
-<a href="https://leetcode.com/u/Tanishk_008/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
+<a href="https://linkedin.com/in/tanishk-gupta-5b7536287">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/tanishkgupta_008">
+  <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/tanishk008">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<!-- ✅ FIXED CODEFORCES -->
+<a href="https://codeforces.com/profile/tanishk008">
+  <img src="https://sta.codeforces.com/s/91937/images/codeforces-logo-with-telegram.png" width="40"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<!-- ✅ FIXED LEETCODE -->
+<a href="https://leetcode.com/u/Tanishk_008/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
+</a>
 </p>
 
-### 🛠️ Tech Stack:
+###  Tech Stack:
 
 <table>
 <tr>
