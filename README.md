@@ -50,19 +50,19 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/tanishk-gupta-5b7536287" title="LinkedIn">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin-right:12px"/>
 </a>
 
 <a href="https://instagram.com/tanishkgupta_008" title="Instagram">
-  <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+  <img src="https://skillicons.dev/icons?i=instagram" width="40" style="margin-right:12px"/>
 </a>
 
 <a href="https://www.codechef.com/users/tanishk008" title="CodeChef">
-  <img src="https://raw.githubusercontent.com/Tanishk008/Tanishk008/main/assets/cd.webp" width="40"/>
+  <img src="https://raw.githubusercontent.com/Tanishk008/Tanishk008/main/assets/cd.webp" width="40" style="margin-right:12px"/>
 </a>
 
 <a href="https://codeforces.com/profile/tanishk008" title="Codeforces">
-  <img src="https://raw.githubusercontent.com/Tanishk008/Tanishk008/main/assets/cf.webp" width="40"/>
+  <img src="https://raw.githubusercontent.com/Tanishk008/Tanishk008/main/assets/cf.webp" width="40" style="margin-right:12px"/>
 </a>
 
 <a href="https://leetcode.com/u/Tanishk_008/" title="LeetCode">
