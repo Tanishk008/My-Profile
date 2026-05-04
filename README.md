@@ -62,14 +62,14 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<!-- ✅ FIXED CODEFORCES -->
+<!-- FIXED CODEFORCES -->
 <a href="https://codeforces.com/profile/tanishk008">
   <img src="https://sta.codeforces.com/s/91937/images/codeforces-logo-with-telegram.png" width="40"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<!-- ✅ FIXED LEETCODE -->
+<!-- FIXED LEETCODE -->
 <a href="https://leetcode.com/u/Tanishk_008/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
 </a>
