@@ -22,7 +22,7 @@
 
 ###  About Me:
 
--  B.Tech CSE (AI) student at KIET, Ghaziabad  
+-  B.Tech CSE (AI) student at KIET, Ghaziabad
 -  Building AI-powered systems & Web3 applications  
 -  Currently working on LLM-based document intelligence systems  
 -  Exploring system design, scalable architectures & real-world problem solving  
