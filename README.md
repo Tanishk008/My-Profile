@@ -9,7 +9,7 @@
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tanishk008&label=Profile%20views&color=0e75b6&style=flat" alt="tanishk008" />
+  <img src="https://komarev.com/ghpvc/?username=Tanishk008&label=Profile%20views&color=0e75b6&style=flat" alt="tanishk008" />
 </p>
 
 <p align="left">
