@@ -121,9 +121,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishk008&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Tanishk008&theme=tokyonight" />
 </p>
-
 
 ### Fun Fact:
 
