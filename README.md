@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Tanishk Gupta</h1>
   
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?lines=SDE+%7C+Web+Developer;AI+%7C+Web3+Builder;Problem+Solver+%7C+Innovator&center=true&width=500&height=50">
 </p>
 
